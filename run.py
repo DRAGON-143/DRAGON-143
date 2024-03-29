@@ -1,3 +1,3 @@
 import os
 import dragon
-dragon login()
+dragon.login()
